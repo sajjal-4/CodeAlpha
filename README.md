@@ -11,6 +11,8 @@ This repository contains a simple Python program that generates the Fibonacci se
    ```bash
    git clone https://github.com/yourusername/repo-name.git
 3. Navigate to the directory:
+   ```bash
    cd repo-name
-4. Run the python script:
+5. Run the python script:
+   ```bash
   python code.py
