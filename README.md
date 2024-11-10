@@ -15,4 +15,4 @@ This repository contains a simple Python program that generates the Fibonacci se
    cd repo-name
 5. Run the python script:
    ```bash
-  python code.py
+    python code.py
