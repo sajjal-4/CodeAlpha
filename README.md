@@ -34,7 +34,7 @@ The Fibonacci series is a sequence of numbers where each number is the sum of th
 The Student Grade Tracker allows users to input student names and their corresponding grades, providing functionalities to calculate average grades and display grade summaries.
 
 ### Implementation
-- The program allows adding, updating, and deleting student grades.
+- The program allows adding, calculate average and display grades.
 - It is implemented in Python.
 
 ## Installation
