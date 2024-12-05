@@ -1,4 +1,4 @@
-# Fibonacci Series Generator
+#Fibonacci Series Generator
 
 This project contains a simple Python script that generates the Fibonacci series up to a specified number of terms. The script prompts the user to enter the number of terms they wish to see in the Fibonacci series and then prints the series to the console.
 
