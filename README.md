@@ -76,17 +76,17 @@ To run this project locally, follow these steps:
 *   For the Fibonacci Series, run:
 
     ```bash
-    python fibonacci.py
+    python Code.py
     ```
 *   For the Student Grade Tracker, run:
 
     ```bash
-    python grade_tracker.py
+    python main.py
     ```
 *   For the Memory Card Game, run:
 
     ```bash
-    python memory_card_game.py
+    python main.py
     ```
 
 ## How to Run the Code
